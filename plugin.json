@@ -1,0 +1,10 @@
+{
+  "name": "Decky Twitter",
+  "author": "steinuil",
+  "flags": ["debug", "_root"],
+  "publish": {
+    "tags": ["twitter"],
+    "description": "Decky plugin for tweeting screenshots.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
